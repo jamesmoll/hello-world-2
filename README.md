@@ -1,4 +1,4 @@
 hello-world-2
 =============
 
-Just another repository
+Hello there!  This would be where I give some background info on myself.
